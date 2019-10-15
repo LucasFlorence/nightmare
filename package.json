@@ -1,0 +1,9 @@
+{
+    "name": "nightmare",
+    "dependencies": {
+        "nightmare": "^3.0.2"
+    },
+    "scripts": {
+        "dolar": "node dolar"
+    }
+}
